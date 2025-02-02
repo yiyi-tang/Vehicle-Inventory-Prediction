@@ -63,7 +63,10 @@ This document summarizes the results of the datathon, including the models used,
 - Further improvements could be explored by:
     - Tuning hyperparameters.
     - Incorporating additional features or advanced feature engineering techniques.
-
+      
+## 6. Interpretation
+Feature importance analysis highlighted vehicle age and fuel_info as top predictors, reflecting real-world dynamics: older vehicles phase out faster, and policy-driven fuel shifts impact adoption rates.
+![a94bd769d767b1714848625cb11c3fd](https://github.com/user-attachments/assets/ba555072-7147-404c-a7a7-279bd53cdfd9)
 ## Notebook Structure
 
 Each Jupyter Notebook (.ipynb) contains the following:
@@ -74,4 +77,4 @@ Each Jupyter Notebook (.ipynb) contains the following:
 4. **Submission File Generation:** Code to generate the submission file for each model.
 
 This concludes the summary of the datathon results. For further details, refer to the respective Jupyter Notebooks and submission files.
-![a94bd769d767b1714848625cb11c3fd](https://github.com/user-attachments/assets/ba555072-7147-404c-a7a7-279bd53cdfd9)
+
