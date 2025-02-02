@@ -50,16 +50,8 @@ This document summarizes the results of the datathon, including the models used,
 - **Submission File:** submission_file_xgboost.xlsx
 - **Notebook:** Cheveron_xgb.ipynb
 - 
-## 5. Ensemble Model
 
-**Model Used:**
-
-- Combined predictions from three Random Forest models (from sections 1, 2, and 3) and XGBoost (section 4) using arithmetic mean.
-
-- **Ensemble RMSE:** 3968.33
-- **Notebook:** ensemble_model.ipynb
-  
-## 6. Summary
+## 5. Summary
 
 - **Best Model:** XGBoost
 - **Best RMSE:** 3895.53
