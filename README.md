@@ -66,7 +66,10 @@ This document summarizes the results of the datathon, including the models used,
       
 ## 6. Interpretation
 Feature importance analysis highlighted vehicle age and fuel_info as top predictors, reflecting real-world dynamics: older vehicles phase out faster, and policy-driven fuel shifts impact adoption rates.
-![a94bd769d767b1714848625cb11c3fd](https://github.com/user-attachments/assets/ba555072-7147-404c-a7a7-279bd53cdfd9)
+\begin{figure}[h!]
+  \centering
+  \includegraphics[width=0.8\textwidth]{https://github.com/user-attachments/assets/ba555072-7147-404c-a7a7-279bd53cdfd9}
+\end{figure}
 ## Notebook Structure
 
 Each Jupyter Notebook (.ipynb) contains the following:
