@@ -45,7 +45,7 @@ This document summarizes the results of the datathon, including the models used,
 
 **Data Used:** Same as 2 (filled NA and added age variable).
 
-- **RMSE:** 4704.32
+- **RMSE:** 3895.53
 - **R^2 on test set:** 0.96
 - **Submission File:** submission_file_xgboost.xlsx
 - **Notebook:** Cheveron_xgb.ipynb
