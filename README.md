@@ -66,7 +66,8 @@ This document summarizes the results of the datathon, including the models used,
       
 ## 6. Interpretation
 Feature importance analysis highlighted vehicle age and fuel_info as top predictors, reflecting real-world dynamics: older vehicles phase out faster, and policy-driven fuel shifts impact adoption rates.
-<img src="https://github.com/user-attachments/assets/ba555072-7147-404c-a7a7-279bd53cdfd9" width="80%" />
+
+![05b7d1f662fc6703250000cccffd2a0](https://github.com/user-attachments/assets/f2721ba6-b49a-4f6f-b8dd-201284aa0a05)
 
 
 ## Notebook Structure
