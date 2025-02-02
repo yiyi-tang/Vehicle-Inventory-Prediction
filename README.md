@@ -74,3 +74,4 @@ Each Jupyter Notebook (.ipynb) contains the following:
 4. **Submission File Generation:** Code to generate the submission file for each model.
 
 This concludes the summary of the datathon results. For further details, refer to the respective Jupyter Notebooks and submission files.
+![a94bd769d767b1714848625cb11c3fd](https://github.com/user-attachments/assets/ba555072-7147-404c-a7a7-279bd53cdfd9)
