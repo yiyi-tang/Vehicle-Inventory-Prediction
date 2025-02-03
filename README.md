@@ -7,7 +7,7 @@ This document summarizes the results of the datathon, including the models used,
 
 **Data Used:** Raw data (no preprocessing).
 
-- **Decision Tree RMSE:** 8001.78(discared)
+- **Decision Tree RMSE:** 8001.78(discarded)
 - **R^2 on test set:** 0.89
 - **Random Forest RMSE:** 7573.58
 - **R^2 on test set:** 0.90
@@ -21,7 +21,7 @@ This document summarizes the results of the datathon, including the models used,
 - Filled missing values in `['model_year']` using the median value and converted to integer.
 - Added an age variable (numerical).
 
-- **Decision Tree RMSE:** 5213.35(discared)
+- **Decision Tree RMSE:** 5213.35(discarded)
 - **R^2 on test set:** 0.96
 - **Random Forest RMSE:** 4773.67
 - **R^2 on test set:** 0.97
@@ -34,7 +34,7 @@ This document summarizes the results of the datathon, including the models used,
 
 - Same as 2, with an additional binary classification feature for fuel type.
 
-- **Decision Tree RMSE:** 5381.77(discared)
+- **Decision Tree RMSE:** 5381.77(discarded)
 - **R^2 on test set:** 0.94
 - **Random Forest RMSE:** 4738.51
 - **R^2 on test set:** 0.97
